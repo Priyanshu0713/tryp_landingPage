@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 import Lottie from 'react-lottie';
 import lottie_3 from './lottie/main_lottie.json';
@@ -7,6 +6,8 @@ import { FaInstagram } from 'react-icons/fa';
 import { AiFillFacebook } from 'react-icons/ai';
 import { BsTiktok } from 'react-icons/bs';
 import { MdEmail } from 'react-icons/md';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 // ....  Images  ....
 
