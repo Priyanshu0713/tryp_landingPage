@@ -24,7 +24,6 @@ This landing page serves as a virtual gateway into my professional world. It's d
 - CSS
 - JavaScript
 - React.js
-- [Add any other technologies or libraries used]
 
 ## Getting Started
 
