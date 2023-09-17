@@ -30,7 +30,7 @@ This landing page serves as a virtual gateway into my professional world. It's d
 To visit my personal landing page and explore the immersive world it offers, simply go to [insert landing page URL]. Alternatively, if you'd like to dive into the code and contribute, you can clone this repository and follow the instructions below:
 
 ```bash
-git clone [repository URL]
-cd [repository directory]
+git clone https://github.com/Priyanshu0713/tryp_landingPage.git
+cd tryp_landingPage
 npm install
 npm start
